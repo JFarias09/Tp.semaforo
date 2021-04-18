@@ -1,1 +1,3 @@
 # Tp.semaforo
+
+pseudocódigo
