@@ -15,20 +15,24 @@ Cortar()
  
 P(S_mezclar)
 - mezcla
+
 V(s_salar)
 
 P(s_salar)
 - mutex() 
 - salar
 - mutex()
+
 V(s_agregarCarne)
 
 P(s_agregarCarne)
 - agregarCarne
+
 V(s_empanar)
 
 P(s_empanar)
 - empanar
+
 V(s_freir)
 
 P(s_freir)
