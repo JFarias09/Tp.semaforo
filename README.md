@@ -25,7 +25,7 @@
   - salar
   - mutex()
   - V(s_agregarCarne)
-  - 
+
 - P(s_agregarCarne)
   - agregarCarne
   - V(s_empanar)
@@ -58,6 +58,8 @@
   - ArmandoMilanesa
   - Equipo Ganador
 
+
+##
 
 ## DIFICULTADES
 - Complicacion para usar los mutex
