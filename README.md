@@ -13,6 +13,7 @@
 
 
 Cortar()
+
 V(s_mezclar)
  
 P(S_mezclar)
