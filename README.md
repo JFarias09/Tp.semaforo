@@ -62,4 +62,4 @@
 ## DIFICULTADES
 - Complicacion para usar los mutex
 - Problema en la concurrencia
-- leer desde un archivo la receta
+- Leer desde un archivo la receta
