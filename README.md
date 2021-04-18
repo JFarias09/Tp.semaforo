@@ -17,7 +17,7 @@ El programa se basa en que 4 equipos compiten por hacer un sándwich de milanesa
 
 **Semaforo compartido:**
 - mutex 1
-- mutex1 1
+- mutex1 2
 
 ### Pseudocódigo
 - Cortar()
