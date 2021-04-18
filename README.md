@@ -1,5 +1,5 @@
 # Tp.semaforo
-== Introducción
+==: Introducción
 
 *Pseudocódigo*
 
