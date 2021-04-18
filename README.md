@@ -1,7 +1,5 @@
 # MINI TP SEMAFORO
 
-### Pseudocódigo
-
 **Semaforos:**
 - s_mezclar
 - s_salar
@@ -12,7 +10,7 @@
 - s_mutex1
 
 ### Pseudocódigo
- - Cortar()
+Cortar()
 
 V(s_mezclar)
  
@@ -40,4 +38,5 @@ P(s_freir)
 - mutex()
 - freir
 - mutex()
+V(s_hornear)
   
