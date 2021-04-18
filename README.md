@@ -1,5 +1,11 @@
 # MINI TP SEMAFORO
 
+
+## INTRODUCCIÓN
+El programa se basa en que 4 equipos compiten por hacer un sándwich de milanesa lo más rápido posible, siguiendo una receta con la dificultad que solamente hay un salero, un sartén que cocina solamente una milanesa y un horno que cocina dos panes.
+
+
+### Implementacion:
 **Semaforos interno**
 - s_mezclar
 - s_salar
@@ -62,6 +68,6 @@
 ##
 
 ## DIFICULTADES
-- Complicacion para usar los mutex
-- Problema en la concurrencia
-- Leer desde un archivo la receta
+- Complicacion para usar los mutex.
+- Problema en la concurrencia.
+- Leer desde un archivo la receta.
