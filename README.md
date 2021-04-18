@@ -1,16 +1,15 @@
-# Tp.semaforo
-# TP SEMAFORO
+# MINI TP SEMAFORO
 
-*Pseudocódigo*
+### Pseudocódigo
 
-Semaforos:
-s_mezclar
-s_salar
-s_agregarCarne
-s_empanar
-s_freir
-s_mutex
-s_mutex1
+** Semaforos: **
+- s_mezclar
+- s_salar
+- s_agregarCarne
+- s_empanar
+- s_freir
+- s_mutex
+- s_mutex1
 
 
 Cortar()
