@@ -9,7 +9,6 @@
 #define LIMITE 50
 sem_t mutex;
 sem_t mutex1;
-sem_t mutex2;
 
 //creo estructura de semaforos 
 struct semaforos {
