@@ -10,11 +10,10 @@
 - s_mutex1
 
 ### Pseudocódigo
-Cortar()
-- V(s_mezclar)
- 
-P(S_mezclar)
-- mezcla
+- Cortar()
+  - V(s_mezclar)
+- P(S_mezclar)
+  - mezcla
 
 V(s_salar)
 
