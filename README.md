@@ -14,29 +14,25 @@
   - V(s_mezclar)
 - P(S_mezclar)
   - mezcla
+  - V(s_salar)
 
-V(s_salar)
+- P(s_salar)
+  - mutex() 
+  - salar
+  - mutex()
+  - V(s_agregarCarne)
+  - 
+- P(s_agregarCarne)
+  - agregarCarne
+  - V(s_empanar)
 
-P(s_salar)
-- mutex() 
-- salar
-- mutex()
+- P(s_empanar)
+  - empanar
+ - V(s_freir)
 
-V(s_agregarCarne)
-
-P(s_agregarCarne)
-- agregarCarne
-
-V(s_empanar)
-
-P(s_empanar)
-- empanar
-
-V(s_freir)
-
-P(s_freir)
-- mutex()
-- freir
-- mutex()
-V(s_hornear)
+- P(s_freir)
+  - mutex()
+  - freir
+  - mutex()
+  - V(s_hornear)
   
