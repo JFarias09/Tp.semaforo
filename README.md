@@ -10,8 +10,8 @@
 - s_panHorneado
 
 **Semaforo compartido:**
-- mutex
-- mutex1
+- mutex 1
+- mutex1 1
 
 ### Pseudocódigo
 - Cortar()
