@@ -57,3 +57,9 @@
   - P(s_panHorneado)
   - ArmandoMilanesa
   - Equipo Ganador
+
+
+## DIFICULTADES
+- Complicacion para usar los mutex
+- Problema en la concurrencia
+- leer desde un archivo la receta
