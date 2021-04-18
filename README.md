@@ -1,5 +1,5 @@
 # Tp.semaforo
-= MINI TP SEMAFORO
+== Introducción
 
 *Pseudocódigo*
 
