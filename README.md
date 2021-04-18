@@ -11,8 +11,8 @@
 - s_mutex
 - s_mutex1
 
-
-Cortar()
+### Pseudocódigo
+ - Cortar()
 
 V(s_mezclar)
  
