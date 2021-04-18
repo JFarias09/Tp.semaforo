@@ -29,15 +29,15 @@ P(s_salar)
 V(s_agregarCarne)
 
 P(s_agregarCarne)
-  agregarCarne
+- agregarCarne
 V(s_empanar)
 
 P(s_empanar)
-  empanar
+-empanar
 V(s_freir)
 
 P(s_freir)
-  mutex()
-  freir
-  mutex()
+- mutex()
+- freir
+- mutex()
   
