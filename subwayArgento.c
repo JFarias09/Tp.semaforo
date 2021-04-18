@@ -401,7 +401,6 @@ int main ()
 	//inicializo los semaforo comparitdo
 	sem_init(&mutex, 0, 1);
 	sem_init(&mutex1, 0, 2);
-	sem_init(&mutex2, 0, 1);
 	//inicializo los hilos de los equipos
     rc = pthread_create(&equipo1,                           //identificador unico
                             NULL,                          //atributos del thread
@@ -435,6 +434,10 @@ int main ()
 //.. faltan joins
 	pthread_join (equipo3,NULL);
 	pthread_join (equipo4,NULL);
+	
+	
+	sem_destroy(&mutex);
+	sem_destroy(&mutex1);
     pthread_exit(NULL);
 }
 
