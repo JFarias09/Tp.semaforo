@@ -1,7 +1,7 @@
 # Tp.semaforo
 =MINI TP SEMAFORO
 
-==Pseudocódigo
+*Pseudocódigo*
 
 Semaforos:
 s_mezclar
