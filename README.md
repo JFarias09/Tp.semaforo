@@ -16,14 +16,14 @@ Cortar()
 V(s_mezclar)
  
 P(S_mezclar)
--mezcla
+- mezcla
 V(s_salar)
 
 P(s_salar)
 
--mutex() 
--salar
--mutex()
+- mutex() 
+- salar
+- mutex()
   
 V(s_agregarCarne)
 
