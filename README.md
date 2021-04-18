@@ -50,3 +50,10 @@
 - Cortar Extra()
   - CortandoExtra
   - V(s_cortandoExtra) 
+
+- Armar Milanesa()
+  - P(s_hornear)
+  - P(s_cortandoExtra)
+  - P(s_panHorneado)
+  - ArmandoMilanesa
+  - Equipo Ganador
