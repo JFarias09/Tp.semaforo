@@ -1,13 +1,17 @@
 # MINI TP SEMAFORO
 
-**Semaforos:**
+**Semaforos interno**
 - s_mezclar
 - s_salar
 - s_agregarCarne
 - s_empanar
 - s_freir
-- s_mutex
-- s_mutex1
+- s_cortandoExtra
+- s_panHorneado
+
+**Semaforo compartido:**
+- mutex
+- mutex1
 
 ### Pseudocódigo
 - Cortar()
@@ -35,4 +39,14 @@
   - freir
   - mutex()
   - V(s_hornear)
-  
+
+- P(s_hornear)
+  - mutex1()
+  - Hornear
+  - mutex1()
+  - mutex1()
+  - V(s_panHorneado)
+
+- Cortar Extra()
+  - CortandoExtra
+  - V(s_cortandoExtra) 
