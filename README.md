@@ -28,7 +28,7 @@
 
 - P(s_empanar)
   - empanar
- - V(s_freir)
+  - V(s_freir)
 
 - P(s_freir)
   - mutex()
