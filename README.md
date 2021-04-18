@@ -2,7 +2,7 @@
 
 ### Pseudocódigo
 
-** Semaforos: **
+**Semaforos:**
 - s_mezclar
 - s_salar
 - s_agregarCarne
